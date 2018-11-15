@@ -2,7 +2,8 @@
   "name": "gremlin-gizmo",
   "version": "0.0.1",
   "description": "Gremlin-gizmo is a Gremlin object modeling tool",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "directories": {
     "lib": "lib"
   },
