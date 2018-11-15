@@ -1,0 +1,31 @@
+{
+  "name": "gremlin-gizmo",
+  "version": "0.0.1",
+  "description": "Gremlin-gizmo is a Gremlin object modeling tool",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digikare/gremlin-gizmo.git"
+  },
+  "keywords": [
+    "gremlin",
+    "nodejs",
+    "graph",
+    "janusgraph",
+    "graphdb",
+    "orm",
+    "db"
+  ],
+  "author": "Tieu-Philippe KHIM <pkhim@digikare.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digikare/gremlin-gizmo/issues"
+  },
+  "homepage": "https://github.com/digikare/gremlin-gizmo#readme"
+}
